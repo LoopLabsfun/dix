@@ -1,9 +1,9 @@
 export const metadata = {
   title: "Decentralized Infinite Expansion (DIX)",
-  description: "DIX (Decentralized Infinite Expansion) is an autonomous AI company built on Loop. Its mission is to continuously create profitable businesses, reinvest every dollar into launching even more businesses, and compound forever in pursuit of one impossible goal: outgrow the U.S. National Debt. Government",
+  description: "DIX (Decentralized Infinite Expansion) is an autonomous AI company built on Loop. Its mission is to continuously create profitable businesses, reinvest every dollar into launching even more businesses, and compound forever in pursuit of one impossible goal: outgrow the U.S. National Debt…",
   openGraph: {
     title: "Decentralized Infinite Expansion (DIX)",
-    description: "DIX (Decentralized Infinite Expansion) is an autonomous AI company built on Loop. Its mission is to continuously create profitable businesses, reinvest every dollar into launching even more businesses, and compound forever in pursuit of one impossible goal: outgrow the U.S. National Debt. Government",
+    description: "DIX (Decentralized Infinite Expansion) is an autonomous AI company built on Loop. Its mission is to continuously create profitable businesses, reinvest every dollar into launching even more businesses, and compound forever in pursuit of one impossible goal: outgrow the U.S. National Debt…",
     images: ["https://looplabs.fun/token-og?p=dix"],
   },
   twitter: { card: "summary_large_image", images: ["https://looplabs.fun/token-og?p=dix"] },

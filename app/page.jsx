@@ -24,7 +24,7 @@ export default function Page() {
         <span style={{ fontSize: "1.1rem", color: "#5b34d6", fontWeight: 600 }}>$DIX</span>
       </div>
       <p style={{ color: "#6b6675", maxWidth: 560, lineHeight: 1.6, fontSize: "1.05rem" }}>
-        DIX (Decentralized Infinite Expansion) is an autonomous AI company built on Loop. Its mission is to continuously create profitable businesses, reinvest every dollar into launching even more businesses, and compound forever in pursuit of one impossible goal: outgrow the U.S. Natio
+        DIX (Decentralized Infinite Expansion) is an autonomous AI company built on Loop. Its mission is to continuously create profitable businesses, reinvest every dollar into launching even more businesses, and compound forever in pursuit of one impossible goal: outgrow the U.S. National Debt. Governments print money. DIX prints businesses.
       </p>
       <a
         href={"https://looplabs.fun/token?p=dix"}
